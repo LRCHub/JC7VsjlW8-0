@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "what you say",
+  "base_artist": "Da-iCE",
+  "createdAt": "2025-12-25T09:57:37.192297Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If What You Say Is True",
+      "artist": "Wu-Tang Clan feat. Streetlife",
+      "has_synced": true,
+      "path": "select/01_If_What_You_Say_Is_True_Wu-Tang_Clan_feat._Streetlife.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If What You Say Is True (feat. Streetlife)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/02_If_What_You_Say_Is_True_(feat._Streetlife)_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Say What You Say",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/03_Say_What_You_Say_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Skit a (Interview / Watch What You Say",
+      "artist": "Guru",
+      "has_synced": false,
+      "path": "select/04_Skit_a_(Interview___Watch_What_You_Say_Guru.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Skit A (Interview): Watch What You Say",
+      "artist": "Guru",
+      "has_synced": false,
+      "path": "select/05_Skit_A_(Interview)__Watch_What_You_Say_Guru.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Like What You Say",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/06_I_Like_What_You_Say_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Careful What You Say",
+      "artist": "Class Actress",
+      "has_synced": true,
+      "path": "select/07_Careful_What_You_Say_Class_Actress.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What You Say?",
+      "artist": "Mousse T.",
+      "has_synced": true,
+      "path": "select/08_What_You_Say_Mousse_T..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Watch What You Say To Me",
+      "artist": "T.I. feat. JAY-Z",
+      "has_synced": true,
+      "path": "select/09_Watch_What_You_Say_To_Me_T.I._feat._JAY-Z.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Watch What You Say to Me (Feat. Jay-Z)",
+      "artist": "T.I.",
+      "has_synced": true,
+      "path": "select/10_Watch_What_You_Say_to_Me_(Feat._Jay-Z)_T.I..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Like What You Say (Acoustic)",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/11_I_Like_What_You_Say_(Acoustic)_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Say What You Say",
+      "artist": "Eminem, Dr. Dre",
+      "has_synced": true,
+      "path": "select/12_Say_What_You_Say_Eminem,_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What You Say",
+      "artist": "Cold War Kids",
+      "has_synced": true,
+      "path": "select/13_What_You_Say_Cold_War_Kids.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Believe What You Say",
+      "artist": "Ricky Nelson",
+      "has_synced": false,
+      "path": "select/14_Believe_What_You_Say_Ricky_Nelson.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's What You Say",
+      "artist": "David Gates",
+      "has_synced": false,
+      "path": "select/15_It's_What_You_Say_David_Gates.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Believe What You Say - Remastered 2005",
+      "artist": "Ricky Nelson",
+      "has_synced": false,
+      "path": "select/16_Believe_What_You_Say_-_Remastered_2005_Ricky_Nelson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "what you say",
+      "artist": "Da-iCE",
+      "has_synced": false,
+      "path": "select/pl_01_what_you_say_Da-iCE.txt"
+    }
+  ]
+}
